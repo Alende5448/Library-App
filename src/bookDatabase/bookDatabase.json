@@ -1,0 +1,26 @@
+[
+  {
+    "bookId": "45e3f3c6-93b6-42e8-bb75-0e817defc871",
+    "title": "Matrix",
+    "author": "Brian Box",
+    "datePublished": "1921",
+    "description": "Machines",
+    "pageCount": "1000",
+    "genre": "Action",
+    "publisher": "Trueman",
+    "createdAt": "2023-06-28T22:33:28.307Z",
+    "updatedAt": "2023-06-28T22:33:28.307Z"
+  },
+  {
+    "bookId": "da4e56f8-14da-442b-b52c-67976b320e19",
+    "title": "Matrix 2",
+    "author": "Brian Box",
+    "datePublished": "1921",
+    "description": "Machines",
+    "pageCount": "1000",
+    "genre": "Action",
+    "publisher": "Trueman",
+    "createdAt": "2023-06-28T22:44:57.015Z",
+    "updatedAt": "2023-06-28T22:44:57.015Z"
+  }
+]

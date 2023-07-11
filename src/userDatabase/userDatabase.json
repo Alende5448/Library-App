@@ -1,0 +1,33 @@
+[
+  {
+    "id": "be34e07b-8f93-4fca-b66c-32184ac72701",
+    "email": "alendeo@yahoo.com",
+    "password": "$2b$10$xg6g38xEJ6VPqEFsvwQfeeV0atG2ptojnkdfnmSJ4lKhivy2cFE8i",
+    "createdAt": "2023-06-19T19:15:55.379Z",
+    "updatedAt": "2023-06-19T19:15:55.379Z"
+  },
+  {
+    "id": "f69b2421-12dd-44a1-99e7-423dfa135ea6",
+    "userName": "Alende",
+    "email": "alendeo1@yahoo.com",
+    "password": "$2b$10$wjrS1MgIjBfU4mosllcWROROoyLDoNw8x.WJpNQbDWEvf6ivV1FA.",
+    "createdAt": "2023-06-19T19:20:54.777Z",
+    "updatedAt": "2023-06-19T19:20:54.777Z"
+  },
+  {
+    "id": "b09858fc-e4ec-4dc8-9536-8acff14589b9",
+    "userName": "Ben",
+    "email": "alendeo123@yahoo.com",
+    "password": "$2b$10$NKEVQ0MOluFXNvbq1iIGRuo0lT80pHi5g697Gt/FtK/nURMzhuy.C",
+    "createdAt": "2023-06-21T14:41:13.577Z",
+    "updatedAt": "2023-06-21T14:41:13.577Z"
+  },
+  {
+    "id": "18dbecda-d354-4868-82ca-768cf5e8e01f",
+    "userName": "Brianjeff",
+    "email": "brianjeff@yahoo.com",
+    "password": "$2b$10$.khyFTX1EvU3XZNfPh8AvuVQe7TAVfqb2gPQBT47sp0ebs6ikdwJe",
+    "createdAt": "2023-06-24T14:32:20.585Z",
+    "updatedAt": "2023-06-24T14:32:20.585Z"
+  }
+]
